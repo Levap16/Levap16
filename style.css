@@ -4,7 +4,7 @@ body {
     padding: 0;
     height: 100vh; /* Full viewport height */
     background-color: #f0f0f0;
-    background-image: url('path/to/your/background-image.jpg'); /* Path to your background image */
+    background-image: url('path/to/your/images/cristino ronaldo header'); /* Path to your background image */
     background-size: cover; /* Make sure the image covers the entire element */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
