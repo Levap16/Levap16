@@ -3,8 +3,9 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh; /* Full viewport height */
-    
-    background-image: url('images/ronaldo je goat3.webp'); /* Path to your background image */
+    .gradient-box
+    background:radial-gradient(to black,yellow,purple); 
+    /*background-image: url('images/ronaldo je goat3.webp'); Path to your background image */
     background-size: cover; /* Make sure the image covers the entire element */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
