@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh; /* Full viewport height */
-    background-color: #f0f0f0;
+    
     background-image: url('images/ronaldo je goat3.webp'); /* Path to your background image */
     background-size: cover; /* Make sure the image covers the entire element */
     background-position: center; /* Center the image */
