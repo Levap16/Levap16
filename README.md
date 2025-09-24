@@ -1,4 +1,4 @@
-## borek je gyt 👋
+## borek je gyat 👋
 
 <!--
 **Levap16/Levap16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
