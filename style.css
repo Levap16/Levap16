@@ -10,7 +10,9 @@ body {
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
 }
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 h1 {
     color: #0066cc;
 }
